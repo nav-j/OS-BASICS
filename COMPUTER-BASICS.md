@@ -22,8 +22,6 @@ Physical parts that you can touch:
 * Speakers – Play sound
 * Hard Disk / SSD – Stores data
 
----
-
 ### 2. Software
 
 Programs that make hardware work:
