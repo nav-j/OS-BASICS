@@ -3,6 +3,7 @@
 A **computer** is an electronic device that accepts data (input), processes it, and gives meaningful information as output.
 
 It works on the principle of:
+
 **Input → Process → Output → Storage**
 
 ---
