@@ -1,14 +1,14 @@
-### 🖥️ **Input and Output Devices – A Quick Overview**
+###  **Input and Output Devices – A Quick Overview**
 
 **Input and output devices** are essential parts of a computer system that help users **communicate with the computer**.
 
 ---
 
-### ⌨️ **Input Devices**
+###  **Input Devices**
 
 **Definition**: Devices used to **enter data and instructions** into a computer.
 
-#### 🔹 Common Input Devices:
+####  Common Input Devices:
 
 | Device               | Purpose                                              |
 | -------------------- | ---------------------------------------------------- |
@@ -23,11 +23,11 @@
 
 ---
 
-### 🖨️ **Output Devices**
+### **Output Devices**
 
 **Definition**: Devices that **display or present processed data** from the computer to the user.
 
-#### 🔸 Common Output Devices:
+#### Common Output Devices:
 
 | Device             | Purpose                                             |
 | ------------------ | --------------------------------------------------- |
@@ -39,7 +39,7 @@
 
 ---
 
-### 🔁 **Input/Output (I/O) Devices**
+### **Input/Output (I/O) Devices**
 
 Some devices serve **both input and output** functions:
 
@@ -51,7 +51,7 @@ Some devices serve **both input and output** functions:
 
 ---
 
-### ✅ **Conclusion:**
+###  **Conclusion:**
 
 * **Input devices** bring information **into** the computer.
 * **Output devices** take information **out** to the user.
