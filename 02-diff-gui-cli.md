@@ -1,4 +1,4 @@
-### 🖥️ **Difference Between GUI and CLI**
+###  **Difference Between GUI and CLI**
 
 GUI (Graphical User Interface) and CLI (Command Line Interface) are two primary ways users interact with an operating system or software.
 
@@ -17,14 +17,14 @@ GUI (Graphical User Interface) and CLI (Command Line Interface) are two primary 
 
 ---
 
-### 🔍 **Real-World Example:**
+###  **Real-World Example:**
 
 * **GUI:** Opening a folder by double-clicking its icon.
 * **CLI:** Opening the same folder using a command like `cd Documents`.
 
 ---
 
-### ✅ **Conclusion:**
+###  **Conclusion:**
 
 * **GUI** is best for everyday users who prefer visual interaction.
 * **CLI** is powerful for technical users who need speed, control, and automation.
