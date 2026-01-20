@@ -2,7 +2,7 @@ Here are simple definitions for **input, output, data,** and **information**:
 
 ---
 
-### 🧾 **1. Data**
+###  **1. Data**
 
 **Definition**:
 Raw, unprocessed facts and figures **without context or meaning**.
@@ -12,7 +12,7 @@ Numbers like `100`, `John`, or `45.8` are data until we know what they represent
 
 ---
 
-### ⌨️ **2. Input**
+### **2. Input**
 
 **Definition**:
 The process of **entering data or commands** into a computer system using input devices.
@@ -22,7 +22,7 @@ Typing on a keyboard, clicking a mouse, or scanning a document.
 
 ---
 
-### 🧠 **3. Information**
+### **3. Information**
 
 **Definition**:
 Processed data that is **organized, meaningful, and useful**.
@@ -32,7 +32,7 @@ Processed data that is **organized, meaningful, and useful**.
 
 ---
 
-### 🖨️ **4. Output**
+### **4. Output**
 
 **Definition**:
 The **result or display of processed data** by the computer, shown through output devices.
